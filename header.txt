@@ -1,0 +1,9 @@
+Return-Path: <support@paypa1.com>
+Received: from badhost.ru ([45.67.89.123]) by mail.fakehost.net;
+Authentication-Results: spf=fail smtp.mailfrom=paypa1.com;
+                        dkim=fail (signature mismatch)
+From: "PayPal Security" <support@paypa1.com>
+To: you@example.com
+Subject: Urgent Action Required: Account Suspension Notice
+Date: Tue, 6 Aug 2025 10:15:00 +0000
+Message-ID: <9348234@badhost.ru>
